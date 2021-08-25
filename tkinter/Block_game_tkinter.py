@@ -1,4 +1,10 @@
-#My first Game
+"""
+
+BEAT TEST 1.0 !!!!!
+
+"""
+
+
 from tkinter import *
 import random
 import tkinter.messagebox
