@@ -1,2 +1,2 @@
 # ProjectPython
-Create by &copy; Nutthanonn
+Create by &copy; Nutthanonn Tho
